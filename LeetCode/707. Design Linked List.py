@@ -1,7 +1,7 @@
 class Node(object):
     def __init__(self,value):
         self.val = value  # 代表Node 的data
-        self.next = None # pointer，指向下一個node
+        self.next = None # 指向下一個node
         
     
 class MyLinkedList:
@@ -23,7 +23,7 @@ class MyLinkedList:
         if self.head == None:
             return -1
         a = self.head
-        #這邊要注意，到尾巴就停，一般來講上面條件跟其他功能的問題
+        
         for i in range(index):
             a = a.next
         return a.val
@@ -32,7 +32,7 @@ class MyLinkedList:
         """
         Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
         """
-        #先判斷linked-list 是否存在，可用self.size=0 或 self.head= None
+        #先判斷linked-list 是否存在，用self.size=0 或 self.head= None
         if self.head== None : 
             self.head = Node(val)
         else:
@@ -52,7 +52,7 @@ class MyLinkedList:
         else:
             while a.next != None:
                 a = a.next
-            # 不要放在迴圈裡，這樣整個順序會亂
+        
             a.next = Node(val)
         self.size += 1    
         
@@ -64,7 +64,7 @@ class MyLinkedList:
         3. 當index < 0 ， 加在頭
         4. 其他就是插入該index ，並將其他node往後推
         """
-        # 看不懂為什麼要加 index=-1，看清楚題目要求
+
         if index > self.size:
             pass
         elif index == self.size :
