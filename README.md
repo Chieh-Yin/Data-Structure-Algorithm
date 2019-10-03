@@ -1,6 +1,9 @@
-# Introduction of ME
+# About ME
 
 Name: Chieh-Yin
+
+
+
 Major in: SCU Big Data Management
 
 
