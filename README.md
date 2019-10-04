@@ -1,8 +1,7 @@
 ## About ME
 
 <img src="https://media.tenor.com/images/b60f2d8177b06816c855ec99fc1c52ca/tenor.gif" width="250" height="230"/>
-
-(This is my FAVORITE cartoon "WE BARE BEARS" !) </br>
+(^^^This is my FAVORITE cartoon "WE BARE BEARS" !^^^) </br>
 
 **Name:** Chieh-Yin Chou </br>
 **Major in:** SCU Big Data Management </br>
