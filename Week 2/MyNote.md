@@ -15,8 +15,8 @@ Linked List 是一種資料結構，他是用一個節點Node來存取資料，<
 *  `addAtTail(val)` : 將新輸入的值放在這個linked-List的尾巴
 *  `addAtIndex(index, val)` : 將新輸入的值放在這個linked-List的指定index的位置上</br>
     如果 :</br>
-      index 等於 Linked List 的長度，就會加在尾巴</br>
-            大於 Linked List 的長度，就沒有變動</br>
-            小於 0，就加在頭的位置</br>          
+    index 等於 Linked List 的長度，就會加在尾巴</br>
+    index 大於 Linked List 的長度，就沒有變動</br>
+    index 小於 0，就加在頭的位置</br>          
 *  `deleteAtIndex(index)` : 刪掉指定index位置上的值
 
