@@ -10,6 +10,9 @@ I started to learn programming language since I was a freshman in university. </
 
 ---
 
+**♦ Homework**</br>
+[HW1-QuickSort 程式碼](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort.ipynb)</br>
+[HW1-QuickSort 流程圖](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort%E6%B5%81%E7%A8%8B%E5%9C%96.md)
 **♦ Week2**</br>
 [筆記ㄉ部分](https://github.com/Chieh-Yin/Chiehyin/tree/master/Week%202)</br>
 [Design Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py)</br>
