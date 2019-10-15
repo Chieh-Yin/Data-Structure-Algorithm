@@ -15,8 +15,8 @@ Queue 則是當我們的作業系統被多個程式共享資源時，</br>
 ### 語法
 * **STACK的部分**</br>
 
-  * **Push(Data)** :  
-  * **Pop** :
+  * **Push(Data)** :  將資料加進去Stack
+  * **Pop** : 把最上面的數取出來
   * **IsEmpty** :
   * **Top** :
   * **getSize**
