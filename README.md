@@ -4,8 +4,8 @@
 
 </br>
 
-**Name:** Chieh-Yin Chou </br>
-**Major in:** SCU Big Data Management </br>
+**☻ Name:** Chieh-Yin Chou </br>
+**☻ Major in:** SCU Big Data Management </br>
 I started to learn programming language since I was a freshman in university. </br>
 
 ---
