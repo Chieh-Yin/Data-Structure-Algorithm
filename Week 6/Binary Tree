@@ -6,7 +6,7 @@ class Node(object):
         self.left = None
         self.right = None
         
-class MyLinkedList:
+class MyBinaryTree:
 
     def __init__(self):
         """
