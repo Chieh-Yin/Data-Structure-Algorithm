@@ -1,7 +1,13 @@
 class Node(object):
-    def __init__(self,value):
-        self.val = value  # 代表Node 的data
-        self.next = None # 指向下一個node
+    def __init__(self,val):
+        self.root = None  
+        self.size = 0 
+        self.element = None
+        self.parent = None
+        self.left = None
+        self.right = None
+        
+        
         
     
 class MyLinkedList:
