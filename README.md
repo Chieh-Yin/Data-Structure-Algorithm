@@ -11,10 +11,10 @@ I started to learn programming language since I was a freshman in university. </
 ---
 
 **♦ Homework ♦**</br>
-[HW1-QuickSort 程式碼](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort.ipynb)</br>
-[HW1-QuickSort 流程圖](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort%E6%B5%81%E7%A8%8B%E5%9C%96.md)</br>
-[HW1-QuickSort 程式碼(更新版)](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort_new.ipynb)</br>
-[HW1-QuickSort 一些想法](https://github.com/Chieh-Yin/Chiehyin/blob/master/Homework/HW1-QuickSort%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95.md)</br>
+[HW1-QuickSort 程式碼](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort.ipynb)</br>
+[HW1-QuickSort 流程圖](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort%E6%B5%81%E7%A8%8B%E5%9C%96.md)</br>
+[HW1-QuickSort 程式碼(更新版)](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort_new.ipynb)</br>
+[HW1-QuickSort 一些想法](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95.md)</br>
 
 **♦ Week2 ♦**</br>
 [筆記ㄉ部分](https://github.com/Chieh-Yin/Chiehyin/tree/master/Week%202)</br>
