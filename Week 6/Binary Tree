@@ -1,23 +1,20 @@
 class Node(object):
     def __init__(self,val):
-        self.root = None  
-        self.size = 0 
+        
         self.element = None
         self.parent = None
         self.left = None
         self.right = None
         
-        
-        
-    
 class MyLinkedList:
 
     def __init__(self):
         """
         Initialize your data structure here.
         """
-        self.head = None
+        self.root = None
         self.size = 0 
+        self.leaf = None
     
     def get(self, index: int) -> int:
         """
