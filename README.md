@@ -26,3 +26,7 @@ I started to learn programming language since I was a freshman in university. </
 [小練習-Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
 
 **♦ Week4 ♦**</br>
+
+**♦ Week5 ♦**</br>
+
+**♦ Week6 ♦**</br>
