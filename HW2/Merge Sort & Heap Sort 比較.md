@@ -40,4 +40,6 @@ Worst Time : O(n log n) </br>
 * Merge Sort: 穩定 </br>
 * Heap Sort: 不穩定 </br>
 
+<img src="https://github.com/Chieh-Yin/Chiehyin/blob/master/Pictures/%E8%A4%87%E9%9B%9C%E5%BA%A6.jpg" width="470" height="350"/>
+
 (參考資料(老師的投影片): https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g6504c48e6e_0_6)
