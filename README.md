@@ -66,12 +66,15 @@ I started to learn programming language since I was a freshman in university. </
      index 小於 0，就加在頭的位置</br>          
 > *  **deleteAtIndex(index)** : 刪掉指定index位置上的值</br>
 
-Leetcode Practice : [Design Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py)</br>
+##### Leetcode Practice : </br>
+[Design Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py)</br>
+##### Reference :</br> 
+[上課投影片](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.g6377a33a16_0_11)</br>
 
 ### **♦ Week3 ♦**</br>
 #### Class : Stack and Queue
+> 這個禮拜老師教的內容是 Stack 以及 Queue。</br>
 * Stack</br>
-> 這個禮拜老師教的內容是 Stack 以及 Queue。
 > Stack 的功能就像是我們平常在編輯器中用的回到上一步的概念，</br>
 > 好比堆盤子，一層一層往上疊，但要拿時卻是最後一個先取出。</br>
 * Queue</br>
@@ -97,35 +100,99 @@ Leetcode Practice : [Design Linked List](https://github.com/Chieh-Yin/Chiehyin/b
 >  * **IsEmpty** : 確認Queue裡面是否有資料 </br>
 >  * **getSize**: 回傳資料筆數 </br>
 
-Leetcode Practice : [Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155.%20Min%20Stack.py)</br>
-Leetcode Practice : [Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
+##### Leetcode Practice : </br>
+[Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155.%20Min%20Stack.py)</br>
+[Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week4 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week5 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week6 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week7 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week8 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week9 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week10 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week11 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week12 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week13 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week14 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week15 ♦**</br>
+
+##### Reference : </br>
+
+
 
 ### **♦ Week16 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week17 ♦**</br>
 
+##### Reference : </br>
+
+
+
 ### **♦ Week18 ♦**</br>
+
+##### Reference : </br>
+
