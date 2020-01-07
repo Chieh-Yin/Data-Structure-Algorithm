@@ -47,152 +47,57 @@ I started to learn programming language since I was a freshman in university. </
 ## **About This Semester**
 
 ### **♦ Week1 ♦**</br>
+* No Class </br>
 
 ### **♦ Week2 ♦**</br>
-#### Class : Linked List
-> 這個禮拜老師教的內容是 Linked List</br>
-> Linked List 是一種資料結構，他是用一個節點Node來存取資料，<br/>
-> 並且用一個箭頭Pointer指向下一個Node，這一個一個的Node、Pointer串在一起就是一個Linked List，</br>
-> 它的好處在於，存放資料可以放在不連續的記憶體中，所以比較不會浪費空間。</br>
-
-語法的部分:</br>
-> *  **get(index)** : 輸入位置並取得那個位置上相對應的值
-> *  **addAtHead(val)** : 將新輸入的值放在這個Linked List的頭
-> *  **addAtTail(val)** : 將新輸入的值放在這個Linked List的尾巴
-> *  **addAtIndex(index, val)** : 將新輸入的值放在這個Linked List的指定index的位置上</br>
-     如果 :</br>
-     index 等於 Linked List 的長度，就會加在尾巴</br>
-     index 大於 Linked List 的長度，就沒有變動</br>
-     index 小於 0，就加在頭的位置</br>          
-> *  **deleteAtIndex(index)** : 刪掉指定index位置上的值</br>
-
-##### Leetcode Practice : </br>
-[Design Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py)</br>
-##### Reference :</br> 
-[上課投影片](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.g6377a33a16_0_11)</br>
+* Linked List </br>
 
 ### **♦ Week3 ♦**</br>
-#### Class : Stack and Queue
-> 這個禮拜老師教的內容是 Stack 以及 Queue。</br>
-* Stack</br>
-> Stack 的功能就像是我們平常在編輯器中用的回到上一步的概念，</br>
-> 好比堆盤子，一層一層往上疊，但要拿時卻是最後一個先取出。</br>
-* Queue</br>
-> Queue 則是當我們的作業系統被多個程式共享資源時，</br>
-> 但一次只能進行一個，這時就會需要他來替我們規劃排程順序。</br>
-> 就好比排隊出場，一個一個按照先後順序，先進先出。</br>
-
-語法的部分:</br>
-* **STACK的部分**</br>
-
->  * **Push(Data)** :  將資料加進去Stack </br>
->  * **Pop** : 把最上面的數取出來 </br>
->  * **IsEmpty** : 確認Stack裡面是否有資料 </br>
->  * **Top** : 回傳最上面的資料 </br>
->  * **getSize**: 回傳資料筆數 </br>
-
-* **QUEUE的部分**</br>
-
->  * **Push(Data)** :  將資料加進去Queue後面，並更新成新的Back </br>
->  * **Pop** :  把Front所指向的資料從Queue中移除，並更新Front，(也可寫dequeue) </br>
->  * **getFront** : 回傳Front所指向的資料 </br>
->  * **getBack** : 回傳Back所指向的資料 </br>
->  * **IsEmpty** : 確認Queue裡面是否有資料 </br>
->  * **getSize**: 回傳資料筆數 </br>
-
-##### Leetcode Practice : </br>
-[Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155.%20Min%20Stack.py)</br>
-[Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
-
-##### Reference : </br>
-
-
+* Stack and Queue </br>
 
 ### **♦ Week4 ♦**</br>
-
-##### Reference : </br>
-
-
+* Set </br>
+* Insertion Sort </br>
 
 ### **♦ Week5 ♦**</br>
-
-##### Reference : </br>
-
-
+* Quick Sort </br>
 
 ### **♦ Week6 ♦**</br>
-
-##### Reference : </br>
-
-
+* Heap Sort </br>
 
 ### **♦ Week7 ♦**</br>
-
-##### Reference : </br>
-
-
+* Merge Sort </br>
 
 ### **♦ Week8 ♦**</br>
-
-##### Reference : </br>
-
-
+* Binary Tree </br>
 
 ### **♦ Week9 ♦**</br>
-
-##### Reference : </br>
-
-
+* Binary Search Tree </br>
 
 ### **♦ Week10 ♦**</br>
-
-##### Reference : </br>
-
-
+* Red Black Tree </br>
 
 ### **♦ Week11 ♦**</br>
-
-##### Reference : </br>
-
-
+* Hash Table </br>
 
 ### **♦ Week12 ♦**</br>
-
-##### Reference : </br>
-
-
+* Breadth-First Search</br>
 
 ### **♦ Week13 ♦**</br>
-
-##### Reference : </br>
-
-
+* Depth-First Search </br>
 
 ### **♦ Week14 ♦**</br>
-
-##### Reference : </br>
-
-
+* Minimum Spanning Tree (Kruskal)</br>
 
 ### **♦ Week15 ♦**</br>
-
-##### Reference : </br>
-
-
+* Shortest Path (Dijkstra) </br>
 
 ### **♦ Week16 ♦**</br>
-
-##### Reference : </br>
-
-
+* Overall Review </br>
 
 ### **♦ Week17 ♦**</br>
-
-##### Reference : </br>
-
-
+* Final Exam </br>
 
 ### **♦ Week18 ♦**</br>
-
-##### Reference : </br>
+* No Class</br>
 
