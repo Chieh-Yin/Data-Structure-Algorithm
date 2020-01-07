@@ -22,7 +22,7 @@
 ### **♦ Week4 ♦**</br>
 * Set </br>
 * Insertion Sort </br>
-
+* [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
 ### **♦ Week5 ♦**</br>
 * Quick Sort </br>
 
