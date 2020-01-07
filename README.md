@@ -20,7 +20,7 @@
 * [Stack and Queue](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%203%20-%20Stack%20%26%20Queue.md) </br>
 
 ### **♦ Week4 ♦**</br>
-* Set </br>
+* [Set](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Set.md) </br>
 * Insertion Sort </br>
 * [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
 ### **♦ Week5 ♦**</br>
