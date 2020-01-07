@@ -50,7 +50,7 @@ I started to learn programming language since I was a freshman in university. </
 * No Class </br>
 
 ### **♦ Week2 ♦**</br>
-* Linked List </br>
+* [Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%202%20-%20Linked%20List.md) </br>
 
 ### **♦ Week3 ♦**</br>
 * Stack and Queue </br>
