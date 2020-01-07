@@ -17,7 +17,7 @@
 * [Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%202%20-%20Linked%20List.md) </br>
 
 ### **♦ Week3 ♦**</br>
-* Stack and Queue </br>
+* [Stack and Queue](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%203%20-%20Stack%20%26%20Queue.md) </br>
 
 ### **♦ Week4 ♦**</br>
 * Set </br>
