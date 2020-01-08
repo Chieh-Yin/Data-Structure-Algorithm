@@ -31,7 +31,7 @@
 * [Heap Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Heap%20Sort.md) </br>
 
 ### **♦ Week7 ♦**</br>
-* Merge Sort </br>
+* [Merge Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%207%20-%20Merge%20Sort.md) </br>
 
 ### **♦ Week8 ♦**</br>
 * Binary Tree </br>
