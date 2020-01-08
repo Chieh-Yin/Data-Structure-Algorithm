@@ -34,7 +34,7 @@
 * [Merge Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%207%20-%20Merge%20Sort.md) </br>
 
 ### **♦ Week8 ♦**</br>
-* Binary Tree </br>
+* [Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%208%20-%20Binary%20Tree.md) </br>
 
 ### **♦ Week9 ♦**</br>
 * Binary Search Tree </br>
