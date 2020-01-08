@@ -52,10 +52,10 @@
 * [Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2013%20-%20Depth-First%20Search.md) </br>
 
 ### **♦ Week14 ♦**</br>
-* Minimum Spanning Tree (Kruskal)</br>
+* [Minimum Spanning Tree (Kruskal)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2014%20-%20Minimum%20Spanning%20Tree%20(Kruskal).md)</br>
 
 ### **♦ Week15 ♦**</br>
-* Shortest Path (Dijkstra) </br>
+* [Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2015%20-%20Shortest%20Path%20(Dijkstra).md) </br>
 
 ### **♦ Week16 ♦**</br>
 * Overall Review </br>
