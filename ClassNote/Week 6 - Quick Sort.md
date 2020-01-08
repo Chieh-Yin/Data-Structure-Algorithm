@@ -27,6 +27,7 @@ Quick Sort 的特點在於他可以有效率的處理比較大量的資料。</b
   Average Time       O(nlogn) </br>
   Worst Time         O(n^2) </br>
 * **Space Complexity :** O(nlogn)</br>
+* **Stable/Unstable :** Unstable</br>
   
   
 ### Reference:
