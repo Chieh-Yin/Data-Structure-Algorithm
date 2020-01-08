@@ -27,7 +27,7 @@
 * No Class </br>
 
 ### **♦ Week6 ♦**</br>
-* Quick Sort </br>
+* [Quick Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Quick%20Sort.md) </br>
 * Heap Sort </br>
 
 ### **♦ Week7 ♦**</br>
