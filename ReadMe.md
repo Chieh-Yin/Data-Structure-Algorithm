@@ -46,7 +46,7 @@
 * [Hash Table](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2011%20-%20Hash%20Table.md) </br>
 
 ### **♦ Week12 ♦**</br>
-* Breadth-First Search</br>
+* [Breadth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2012%20-%20Breadth-First%20Search.md)</br>
 
 ### **♦ Week13 ♦**</br>
 * Depth-First Search </br>
