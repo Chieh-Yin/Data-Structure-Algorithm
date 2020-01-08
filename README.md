@@ -43,7 +43,7 @@
 * [Red Black Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2010%20-%20Red%20Black%20Tree.md) </br>
 
 ### **♦ Week11 ♦**</br>
-* Hash Table </br>
+* [Hash Table](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2011%20-%20Hash%20Table.md) </br>
 
 ### **♦ Week12 ♦**</br>
 * Breadth-First Search</br>
