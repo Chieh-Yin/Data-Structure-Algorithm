@@ -49,7 +49,7 @@
 * [Breadth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2012%20-%20Breadth-First%20Search.md)</br>
 
 ### **♦ Week13 ♦**</br>
-* Depth-First Search </br>
+* [Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2013%20-%20Depth-First%20Search.md) </br>
 
 ### **♦ Week14 ♦**</br>
 * Minimum Spanning Tree (Kruskal)</br>
