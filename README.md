@@ -40,7 +40,7 @@
 * [Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%209%20-%20Binary%20Search%20Tree.md) </br>
 
 ### **♦ Week10 ♦**</br>
-* Red Black Tree </br>
+* [Red Black Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2010%20-%20Red%20Black%20Tree.md) </br>
 
 ### **♦ Week11 ♦**</br>
 * Hash Table </br>
