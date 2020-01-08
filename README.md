@@ -37,7 +37,7 @@
 * [Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%208%20-%20Binary%20Tree.md) </br>
 
 ### **♦ Week9 ♦**</br>
-* Binary Search Tree </br>
+* [Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%209%20-%20Binary%20Search%20Tree.md) </br>
 
 ### **♦ Week10 ♦**</br>
 * Red Black Tree </br>
