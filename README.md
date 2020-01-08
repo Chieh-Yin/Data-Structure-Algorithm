@@ -24,9 +24,10 @@
 * [Insertion Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Insertion%20Sort.md) </br>
 * [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
 ### **♦ Week5 ♦**</br>
-* Quick Sort </br>
+* No Class </br>
 
 ### **♦ Week6 ♦**</br>
+* Quick Sort </br>
 * Heap Sort </br>
 
 ### **♦ Week7 ♦**</br>
