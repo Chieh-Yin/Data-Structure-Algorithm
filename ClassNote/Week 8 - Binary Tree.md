@@ -30,4 +30,5 @@
 
 
 ### Reference
+[老師PPT](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.g707e8c8328_0_12)</br>
 [網路資料 1](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)</br>
