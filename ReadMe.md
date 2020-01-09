@@ -14,7 +14,7 @@
 
 -----
 
-## **♦ About This Semester ♦**
+## ♦ About This Semester ♦
 > From September,2019 to January,2020</br>
 
 ### **♦ Week1 ♦**</br>
@@ -33,7 +33,7 @@
 ### **♦ Week5 ♦**</br>
 * No Class </br>
 
-### **♦ Week6 ♦**</br>
+### ♦ Week6 ♦</br>
 * [Quick Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Quick%20Sort.md) </br>
 * [Heap Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Heap%20Sort.md) </br>
 
