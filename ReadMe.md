@@ -41,7 +41,7 @@
 
 [♣ Practice ♣](#-practice-) </br>
       [⍤ CodeSignal](#-codesignal-)</br>
-      [⍤ LeetCode](#-leetcode-)</br>
+      [⍤ Leetcode](#-leetcode-)</br>
       
 [♣ CS50 ♣](#-cs50-)</br>
 
@@ -181,16 +181,16 @@
  - [20. Get Commit](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/20.%20Get%20Commit.py)</br>
 
 
-### ♦ LeetCode ♦</br>
- - [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707_Design%20Linked%20List_06170206.py) </br>
- - [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9_Palindrome%20Number_06170206.py)</br>
- - [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155_Min%20Stack_06170206.py) </br>
- - [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
- - [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
- - [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
- - [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
- - [441. Arranging Coins](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/441_Arranging%20Coins_06170206.py)</br>
- - [415. Add Strings](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/415_Add%20Strings_06170206.py)</br>
+### ♦ Leetcode ♦</br>
+ - [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/707_Design%20Linked%20List_06170206.py) </br>
+ - [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/9_Palindrome%20Number_06170206.py)</br>
+ - [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/155_Min%20Stack_06170206.py) </br>
+ - [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/965_Univalued%20Binary%20Tree_06170206.py) </br>
+ - [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/705_Design%20HashSet_06170206.py) </br>
+ - [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
+ - [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
+ - [441. Arranging Coins](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/441_Arranging%20Coins_06170206.py)</br>
+ - [415. Add Strings](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/415_Add%20Strings_06170206.py)</br>
 
 -----
 ## ♦ CS50 ♦
