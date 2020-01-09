@@ -4,10 +4,14 @@
 
 </br>
 
-**☻ Name:** Chieh-Yin Chou </br>
-**☻ Major in:** SCU Big Data Management </br>
+**Name:** Chieh-Yin Chou </br>
+**Major in:** SCU Big Data Management </br>
 
 -----
+### About This Repository
+
+這邊是紀錄有關我在資料結構與演算法這堂課的學習紀錄，</br>
+其中包括每個禮拜的上課筆記、作業、練習等等。</br>
 
 ### ♦ Content ♦
 
