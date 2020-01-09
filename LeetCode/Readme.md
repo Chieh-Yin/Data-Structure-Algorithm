@@ -8,9 +8,10 @@ Leetcdoe是我主要用來練習上課題目的平台，</br>
 -----
 
 ### 我在Leetcode寫了哪些題目?</br>
-* 1\. (10/3) [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707_Design%20Linked%20List_06170206.py) </br>
-* 2\. (10/1) [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9_Palindrome%20Number_06170206.py)</br>
-* 3\. (10/6) [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155_Min%20Stack_06170206.py) </br>
-* 4\. (10/18) [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
-* 5\. (12/6) [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
-* 6\. (12/10) [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
+* 1\. [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707_Design%20Linked%20List_06170206.py) </br>
+* 2\. [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9_Palindrome%20Number_06170206.py)</br>
+* 3\. [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155_Min%20Stack_06170206.py) </br>
+* 4\. [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
+* 5\. [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
+* 6\. [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
+* 7\. [371. Sum of Twu Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
