@@ -43,7 +43,11 @@
       [⍤ CodeSignal](#-codesignal-)</br>
       [⍤ LeetCode](#-leetcode-)</br>
       
+[♣ CS50 ♣]()
+
 [♣ My FeedBack ♣](#-feedback-)</br>
+
+
 
 
 -----
@@ -184,6 +188,11 @@
  - [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
  - [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
  - [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
+
+-----
+## ♦ CS50 ♦
+### [CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
+### [My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
 
 
 -----
