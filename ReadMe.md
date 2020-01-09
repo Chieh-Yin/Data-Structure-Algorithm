@@ -11,32 +11,32 @@
 
 ## **♦ Content ♦**
 [♣ About This Semester](#-about-this-semester-)</br>
-      [♧ Week 1](#-week1-)</br>
-      [♧ Week 2](#-week2-)</br>
-      [♧ Week 3](#-week3-)</br>
-      [♧ Week 4](#-week4-)</br>
-      [♧ Week 5](#-week5-)</br>
-      [♧ Week 6](#-week6-)</br>
-      [♧ Week 7](#-week7-)</br>
-      [♧ Week 8](#-week8-)</br>
-      [♧ Week 9](#-week9-)</br>
-      [♧ week 10](#-week10-)</br>
-      [♧ Week 11](#-week11-)</br>
-      [♧ Week 12](#-week12-)</br>
-      [♧ Week 13](#-week13-)</br>
-      [♧ Week 14](#-week14-)</br>
-      [♧ Week 15](#-week15-)</br>
-      [♧ Week 16](#-week16-)</br>
-      [♧ Week 17](#-week17-)</br>
-      [♧ Week 18](#-week18-)</br>
+      [⍤ Week 1](#-week1-)</br>
+      [⍤ Week 2](#-week2-)</br>
+      [⍤ Week 3](#-week3-)</br>
+      [⍤ Week 4](#-week4-)</br>
+      [⍤ Week 5](#-week5-)</br>
+      [⍤ Week 6](#-week6-)</br>
+      [⍤ Week 7](#-week7-)</br>
+      [⍤ Week 8](#-week8-)</br>
+      [⍤ Week 9](#-week9-)</br>
+      [⍤ week 10](#-week10-)</br>
+      [⍤ Week 11](#-week11-)</br>
+      [⍤ Week 12](#-week12-)</br>
+      [⍤ Week 13](#-week13-)</br>
+      [⍤ Week 14](#-week14-)</br>
+      [⍤ Week 15](#-week15-)</br>
+      [⍤ Week 16](#-week16-)</br>
+      [⍤ Week 17](#-week17-)</br>
+      [⍤ Week 18](#-week18-)</br>
       
 [♣ My Homework](#-homework-)</br>
-      [♧ Hw1](#-hw1--quicksort-)</br>
-      [♧ Hw2](#-hw2--heapsort--mergesort-)</br>
-      [♧ Hw3](#-hw3--binary-search-tree-)</br>
-      [♧ Hw4](#-hw4--hash-table-)</br>
-      [♧ Hw5](#-hw5--bfs--dfs-)</br>
-      [♧ Hw6](#-hw6--dijkstra--kruskal-)</br>
+      [⍤ Hw1](#-hw1--quicksort-)</br>
+      [⍤ Hw2](#-hw2--heapsort--mergesort-)</br>
+      [⍤ Hw3](#-hw3--binary-search-tree-)</br>
+      [⍤ Hw4](#-hw4--hash-table-)</br>
+      [⍤ Hw5](#-hw5--bfs--dfs-)</br>
+      [⍤ Hw6](#-hw6--dijkstra--kruskal-)</br>
       
 [♣ Practice]()
 -----
