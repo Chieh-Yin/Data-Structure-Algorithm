@@ -188,6 +188,9 @@
  - [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
  - [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
  - [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
+ - [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
+ - [441. Arranging Coins](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/441_Arranging%20Coins_06170206.py)</br>
+ - [415. Add Strings](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/415_Add%20Strings_06170206.py)</br>
 
 -----
 ## ♦ CS50 ♦
