@@ -136,9 +136,6 @@
        - [20. Get Commit](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/20.%20Get%20Commit.py)</br>
 
 
------
-
-
 ## **♦ LeetCode ♦**</br>
 * - [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py) </br>
 * - [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
@@ -151,3 +148,6 @@
 -----
 
 ## **♦ FeedBack ♦**</br>
+
+
+
