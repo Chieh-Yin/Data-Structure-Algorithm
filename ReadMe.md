@@ -10,6 +10,7 @@
 -----
 
 ## **♦ Content ♦**
+[About This Semester](#♦ About This Semester ♦)
 
 -----
 
