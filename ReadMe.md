@@ -43,7 +43,7 @@
       [⍤ CodeSignal](#-codesignal-)</br>
       [⍤ LeetCode](#-leetcode-)</br>
       
-[♣ CS50 ♣]()
+[♣ CS50 ♣](#-cs50-)</br>
 
 [♣ My FeedBack ♣](#-feedback-)</br>
 
@@ -191,8 +191,8 @@
 
 -----
 ## ♦ CS50 ♦
-### [CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
-### [My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
+[CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
+[My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
 
 
 -----
