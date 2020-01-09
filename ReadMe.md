@@ -38,7 +38,7 @@
       [⍤ Hw5](#-hw5--bfs--dfs-)</br>
       [⍤ Hw6](#-hw6--dijkstra--kruskal-)</br>
       
-♣ Practice ♣ </br>
+[♣ Practice ♣](#-practice-) </br>
       [⍤ CodeSignal](#-codesignal-)</br>
       [⍤ LeetCode](#-leetcode-)</br>
 -----
