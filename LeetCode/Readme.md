@@ -14,4 +14,4 @@ Leetcdoe是我主要用來練習上課題目的平台，</br>
 * 4\. [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/965_Univalued%20Binary%20Tree_06170206.py) </br>
 * 5\. [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/705_Design%20HashSet_06170206.py) </br>
 * 6\. [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
-* 7\. [371. Sum of Twu Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
+* 7\. [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
