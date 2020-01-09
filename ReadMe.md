@@ -9,7 +9,8 @@
 
 -----
 
-## **♦ Content ♦**
+### ♦ Content ♦
+
 [♣ About This Semester ♣](#-about-this-semester-)</br>
       [⍤ Week 1](#-week1-)</br>
       [⍤ Week 2](#-week2-)</br>
@@ -37,10 +38,11 @@
       [⍤ Hw4](#-hw4--hash-table-)</br>
       [⍤ Hw5](#-hw5--bfs--dfs-)</br>
       [⍤ Hw6](#-hw6--dijkstra--kruskal-)</br>
-      
+
 [♣ Practice ♣](#-practice-) </br>
       [⍤ CodeSignal](#-codesignal-)</br>
       [⍤ LeetCode](#-leetcode-)</br>
+
 -----
 
 ## ♦ About This Semester ♦
