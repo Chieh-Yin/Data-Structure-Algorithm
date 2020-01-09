@@ -10,7 +10,7 @@
 -----
 
 ## **♦ Content ♦**
-[♣ About This Semester](#-about-this-semester-)</br>
+[♣ About This Semester ♣](#-about-this-semester-)</br>
       [⍤ Week 1](#-week1-)</br>
       [⍤ Week 2](#-week2-)</br>
       [⍤ Week 3](#-week3-)</br>
@@ -30,7 +30,7 @@
       [⍤ Week 17](#-week17-)</br>
       [⍤ Week 18](#-week18-)</br>
       
-[♣ My Homework](#-homework-)</br>
+[♣ My Homework ♣](#-homework-)</br>
       [⍤ Hw1](#-hw1--quicksort-)</br>
       [⍤ Hw2](#-hw2--heapsort--mergesort-)</br>
       [⍤ Hw3](#-hw3--binary-search-tree-)</br>
@@ -38,7 +38,9 @@
       [⍤ Hw5](#-hw5--bfs--dfs-)</br>
       [⍤ Hw6](#-hw6--dijkstra--kruskal-)</br>
       
-[♣ Practice]()
+[♣ Practice ♣]
+      [⍤ CodeSignal](#-codesignal-)</br>
+      [⍤ LeetCode](#-leetcode-)</br>
 -----
 
 ## ♦ About This Semester ♦
