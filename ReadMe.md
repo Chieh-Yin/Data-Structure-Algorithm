@@ -66,6 +66,7 @@
 * [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
 ### ♦ Week5 ♦
 * No Class </br>
+* [HW1 - Quick Sort](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW1)</br>
 
 ### ♦ Week6 ♦
 * [Quick Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Quick%20Sort.md) </br>
@@ -73,30 +74,35 @@
 
 ### ♦ Week7 ♦
 * [Merge Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%207%20-%20Merge%20Sort.md) </br>
+* [HW2 - Heap Sort & Merge Sort](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW2)</br>
 
 ### ♦ Week8 ♦
 * [Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%208%20-%20Binary%20Tree.md) </br>
 
 ### ♦ Week9 ♦
 * [Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%209%20-%20Binary%20Search%20Tree.md) </br>
+* [HW3 - Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW3)</br>
 
 ### ♦ Week10 ♦
 * [Red Black Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2010%20-%20Red%20Black%20Tree.md) </br>
 
 ### ♦ Week11 ♦
 * [Hash Table](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2011%20-%20Hash%20Table.md) </br>
+* [HW4 - Hash Table](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW4)</br>
 
 ### ♦ Week12 ♦
 * [Breadth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2012%20-%20Breadth-First%20Search.md)</br>
 
 ### ♦ Week13 ♦
 * [Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2013%20-%20Depth-First%20Search.md) </br>
+* [HW5 - Breadth-First Search & Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW5)</br>
 
 ### ♦ Week14 ♦
 * [Minimum Spanning Tree (Kruskal)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2014%20-%20Minimum%20Spanning%20Tree%20(Kruskal).md)</br>
 
 ### ♦ Week15 ♦
 * [Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2015%20-%20Shortest%20Path%20(Dijkstra).md) </br>
+* [HW6 - Minimum Spanning Tree (Kruskal) & Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW6)</br>
 
 ### ♦ Week16 ♦
 * Overall Review </br>
