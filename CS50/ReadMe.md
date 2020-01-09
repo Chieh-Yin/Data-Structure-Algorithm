@@ -26,4 +26,4 @@
 只看了一段Week 8的影片，</br>
 內容在講跟這學期的資料結構一樣也有教的: Hash Table、Stack、Queue等等。</br>
 
-### 詳細的學習筆記可以看 [我的CS50筆記]()</br>
+**詳細的學習筆記可以看 [我的CS50筆記](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)**</br>
