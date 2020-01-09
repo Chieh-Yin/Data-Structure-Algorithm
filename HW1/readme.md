@@ -21,7 +21,7 @@ Quick Sort 是先從要比較的list中選出一個數當作要比較的基準�
 > 等於比較的數的話，放中間。</br>
 
 ### [完整程式碼](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort_new.ipynb)</br>
-<img src="https://github.com/Chieh-Yin/Chiehyin/blob/master/Pictures/quick%20sort%20code.jpg" width="700" height="400"/>
+
 
 ### Reference
 [網路資料 1](http://jialin128.pixnet.net/blog/post/142927691-%5b-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5d-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python)</br>
