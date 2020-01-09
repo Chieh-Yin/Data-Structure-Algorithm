@@ -51,65 +51,65 @@
 ## ♦ About This Semester ♦
 > From September,2019 to January,2020</br>
 
-### **♦ Week1 ♦**</br>
+### ♦ Week1 ♦
 * No Class </br>
 
-### **♦ Week2 ♦**</br>
+### ♦ Week2 ♦
 * [Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%202%20-%20Linked%20List.md) </br>
 
-### **♦ Week3 ♦**</br>
+### ♦ Week3 ♦
 * [Stack and Queue](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%203%20-%20Stack%20%26%20Queue.md) </br>
 
-### **♦ Week4 ♦**</br>
+### ♦ Week4 ♦
 * [Set](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Set.md) </br>
 * [Insertion Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Insertion%20Sort.md) </br>
 * [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
-### **♦ Week5 ♦**</br>
+### ♦ Week5 ♦
 * No Class </br>
 
-### ♦ Week6 ♦</br>
+### ♦ Week6 ♦
 * [Quick Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Quick%20Sort.md) </br>
 * [Heap Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Heap%20Sort.md) </br>
 
-### **♦ Week7 ♦**</br>
+### ♦ Week7 ♦
 * [Merge Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%207%20-%20Merge%20Sort.md) </br>
 
-### **♦ Week8 ♦**</br>
+### ♦ Week8 ♦
 * [Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%208%20-%20Binary%20Tree.md) </br>
 
-### **♦ Week9 ♦**</br>
+### ♦ Week9 ♦
 * [Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%209%20-%20Binary%20Search%20Tree.md) </br>
 
-### **♦ Week10 ♦**</br>
+### ♦ Week10 ♦
 * [Red Black Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2010%20-%20Red%20Black%20Tree.md) </br>
 
-### **♦ Week11 ♦**</br>
+### ♦ Week11 ♦
 * [Hash Table](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2011%20-%20Hash%20Table.md) </br>
 
-### **♦ Week12 ♦**</br>
+### ♦ Week12 ♦
 * [Breadth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2012%20-%20Breadth-First%20Search.md)</br>
 
-### **♦ Week13 ♦**</br>
+### ♦ Week13 ♦
 * [Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2013%20-%20Depth-First%20Search.md) </br>
 
-### **♦ Week14 ♦**</br>
+### ♦ Week14 ♦
 * [Minimum Spanning Tree (Kruskal)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2014%20-%20Minimum%20Spanning%20Tree%20(Kruskal).md)</br>
 
-### **♦ Week15 ♦**</br>
+### ♦ Week15 ♦
 * [Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2015%20-%20Shortest%20Path%20(Dijkstra).md) </br>
 
-### **♦ Week16 ♦**</br>
+### ♦ Week16 ♦
 * Overall Review </br>
 
-### **♦ Week17 ♦**</br>
+### ♦ Week17 ♦
 * Final Exam </br>
 
-### **♦ Week18 ♦**</br>
+### ♦ Week18 ♦
 * No Class</br>
 
 -----
 
-## **♦ Homework ♦**</br>
+## ♦ Homework ♦
 
 ### ♔ HW1 : QuickSort ♔</br>
 [HW1-QuickSort 程式碼(更新版)](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW1/HW1-QuickSort_new.ipynb)</br>
@@ -182,7 +182,28 @@
 
 -----
 
-## **♦ FeedBack ♦**</br>
+## ♦ FeedBack ♦
+想了很久不知道這學期的整體心得到底該怎麼寫，</br>
+是收穫滿滿還是被摧殘到傷痕累累也搞不太清楚了，</br>
+只能說，可能是因為以往的課都沒有那麼辛苦，所以才導致現在的我可以疲憊成這樣。</br>
+
+說實在的，我一直都沒有很喜歡打程式，可能是因為知道自己的邏輯沒有很好，所以有點畏懼跟排斥，</br>
+但資料結構演算法這堂課幾乎每一次都在碰程式，</br>
+很多時候我都是想著，"如果不能改變，那就只好接受它吧"，才硬撐下去到現在的。</br>
+還記得做作業我很常都是心不甘情不願，真的都是硬著頭皮做，</br>
+一來是因為真的很麻煩，二來是因為我很想把作業做得很精緻很完美，但真的開始做以後才發現我甚至連自己的要求都做不到，
+每一次寫作業最常發生的就是打程式打一打眼淚就跟著掉下來，真的是每一次做作業都會做到哭，沒有意外，
+做資料結構的作業壓力真的好大啊，交出去後隔天起床第一件事就是去看成績，看我是不是又有測值沒過，是不是又犯了甚麼錯。</br>
+
+我還記得以前補習班老師跟我說過:</br>
+一個人養成一個習慣需要21天，21天以後，這個習慣就會變成你生活中的一部分。</br>
+如果你現在很討厭讀書，那你就先每天都假裝你很認真在讀書，假裝個21天以後，你就會把認真讀書變成你生活中的一部份了。</br>
+我想這學期的資料結構就是這樣，可能我心中還是沒有很喜歡打程式這回事，</br>
+但現在變成有點像是，兩個禮拜一到，就是要做一份作業、就是要打程式，</br>
+沒辦法改變，因為大家都在前進，一定也有人是心不甘情不願的，</br>
+所以我也要跟著前進，不能改變他就要去接受它。</br>
+
+
 
 
 
