@@ -191,8 +191,8 @@
 
 -----
 ## ♦ CS50 ♦
-[CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
-[My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
+* [CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
+* [My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
 
 
 -----
