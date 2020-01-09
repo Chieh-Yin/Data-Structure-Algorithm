@@ -17,3 +17,4 @@ Leetcdoe是我主要用來練習上課題目的平台，</br>
 * 7\. [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
 * 8\. [441. Arranging Coins](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/441_Arranging%20Coins_06170206.py)</br>
 * 9\. [415. Add Strings](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/415_Add%20Strings_06170206.py)</br>
+* 10\. [283.Move Zeroes](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/283_Move%20Zeroes_06170206.py)</br>
