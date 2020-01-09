@@ -138,9 +138,9 @@
 [HW6-Dijkstra & Kruskal 流程圖、學習歷程、原理說明](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)</br>
 
 -----
-
-## ♦ CodeSignal ♦</br>
- ### [Arcade_Intro](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Intro)</br>
+## ♦ Practice ♦</br>
+### ♦ CodeSignal ♦</br>
+ #### [Arcade_Intro](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Intro)</br>
 - [1. Add](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/1.%20Add.py)</br>
 - [2. Century From Year](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/2.%20Century%20From%20Year.py)</br>
 - [3. Check Palindrome](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/3.%20Check%20Palindrome.py)</br>
@@ -148,7 +148,7 @@
 - [5. Shape Area](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/5.%20Shape%20Area.py)</br>
 - [6. Make Array Consecutive](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/6.%20Make%20Array%20Consecutive.py)</br>
      
- ### [Arcade_Python](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Python)</br>
+ #### [Arcade_Python](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Python)</br>
  - [5. Count Bits](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/5.%20Count%20Bits.py)</br>
  - [6. Modulus](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/6.%20Modulus.py)</br>
  - [7. Simple Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/7.%20Simple%20Sort.py)</br>
@@ -166,7 +166,7 @@
  - [20. Get Commit](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/20.%20Get%20Commit.py)</br>
 
 
-## ♦ LeetCode ♦</br>
+### ♦ LeetCode ♦</br>
  - [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/707.%20Design%20Linked%20List.py) </br>
  - [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/9.%20Palindrome%20Number.py)</br>
  - [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/LeetCode/155.%20Min%20Stack.py) </br>
